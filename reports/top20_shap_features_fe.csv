@@ -1,0 +1,21 @@
+feature,mean_abs_shap
+num__MonthlyCharges,0.21762952
+num__tenure,0.1924228
+num__TotalCharges,0.16144931
+num__charges_per_tenure,0.14105684
+cat__InternetService_No,0.07433095
+cat__PaymentMethod_Electronic check,0.0712639
+cat__OnlineSecurity_No internet service,0.062268607
+cat__Dependents_No,0.058451742
+cat__PaymentMethod_Mailed check,0.05637598
+num__SeniorCitizen,0.052030515
+cat__DeviceProtection_Yes,0.051520158
+cat__StreamingMovies_No internet service,0.050865863
+cat__PaperlessBilling_No,0.046235215
+cat__StreamingTV_No,0.04518979
+cat__Partner_No,0.044810627
+cat__MultipleLines_No,0.04333431
+cat__PaymentMethod_Credit card,0.04301251
+cat__PhoneService_No,0.042557843
+cat__OnlineBackup_Yes,0.041558214
+cat__TechSupport_Yes,0.04057874

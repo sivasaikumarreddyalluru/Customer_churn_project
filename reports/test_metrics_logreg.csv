@@ -1,0 +1,6 @@
+,0
+accuracy,0.5267
+precision,0.5302
+recall,0.5044
+f1_score,0.517
+roc_auc,0.5068
