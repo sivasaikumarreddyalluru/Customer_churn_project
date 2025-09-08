@@ -1,0 +1,4 @@
+﻿[
+  {"SeniorCitizen":0,"tenure":6,"MonthlyCharges":70,"TotalCharges":420,"Contract":"Month-to-month","PaperlessBilling":"Yes","TechSupport":"No"},
+  {"SeniorCitizen":1,"tenure":24,"MonthlyCharges":95,"TotalCharges":2280,"Contract":"Two year","PaperlessBilling":"No","TechSupport":"Yes"}
+]
